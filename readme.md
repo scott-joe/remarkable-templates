@@ -2,6 +2,9 @@
 
 Thanks for checking out the templates I've put together. A good place to get started is the [reMarkable wiki](https://remarkablewiki.com/)
 
+## Disclaimer
+You should be comfortable with using the Terminal commands below. If not, consider an installer like [this](https://www.einkpads.com/products/remarkable-template-installer-apple-computers).
+
 ## Getting Set Up
 
 1. Plug your reMarkable into your computer.
@@ -34,3 +37,11 @@ Thanks for checking out the templates I've put together. A good place to get sta
 ### Upload `templates.json` to your reMarkable
 
 `scp ./templates.json root@IP_ADDRESS:/usr/share/remarkable/templates/templates.json`
+
+## License
+This repo includes a [license file](https://github.com/scott-joe/remarkable-templates/blob/main/LICENSE). Github gives you a nice little summary when you view it on here. Here's the summary it provides.
+
+>**GNU General Public License v3.0**
+> 
+> Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+
