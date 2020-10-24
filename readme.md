@@ -1,6 +1,6 @@
-# reMarkable templates
+# reMarkable Templates
 
-Thanks for checking out the templates I've put together. A good place to get started is the [reMarkable wiki](https://remarkablewiki.com/)
+Thanks for checking out the templates I've put together for the [reMarkable eInk tablet](https://remarkable.com/). A good place to get started is the [reMarkable wiki](https://remarkablewiki.com/)
 
 ## Disclaimer
 You should be comfortable with using the Terminal commands below. If not, consider an installer like [this](https://www.einkpads.com/products/remarkable-template-installer-apple-computers).
