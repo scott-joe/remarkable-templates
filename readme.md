@@ -12,7 +12,7 @@ You should be comfortable with using the Terminal commands below. If not, consid
 3. Tap **Settings**.
 4. Tap **Help**.
 5. Tap **Copyrights and licenses**.
-6. Note the locaL IP address of your device.
+6. Note the local IP address of your device.
    - Something like `192.168.1.77`.
 7. Note your password.
    - Something like `8EeAOUlwbs3`.
